@@ -1,4 +1,8 @@
-### Hi there 👋
+<div id='header' align = 'center'>
+    <h1>Hi there, I'm Ilya</h1>
+    <h3>Data analyst from Saint-Petersburg</h3>
+</div>
+
 
 <!--
 **Henologist/Henologist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
