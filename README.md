@@ -3,6 +3,11 @@
     <h3>Data Analyst from Saint-Petersburg</h3>
 </div>
 
+<div id='socials' align = 'center'>
+    <a href = '[telegram-url](https://t.me/Henologist)'
+        <img src = 'https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor='white' alt='Telegram'/>
+</div>    
+
 
 <!--
 **Henologist/Henologist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
